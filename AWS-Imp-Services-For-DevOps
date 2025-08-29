@@ -1,6 +1,15 @@
-EC2 
-VPC
-EBS 
-S3
-IAM
-CloudWatch
+EC2\Compute
+VPC\Networking
+EBS\Volumes
+S3\Storage
+IAM\Access Management
+CloudWatch\Monitoring
+CloudTrail\Compliance
+Lambda\Serverless Compute
+Cloud Build Service\CICD Service
+AWS Config
+Billing and Cost
+AWS KMS
+AWS EKS
+Fargate, ECS
+ELK
